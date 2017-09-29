@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\nick\desktop\tz\ready to go!\tzpraktika№1\tzpraktika№1\source.cpp(56): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+c:\users\nick\desktop\tz\ready to go!\tzpraktika№1\tzpraktika№1\source.cpp(81): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+  TZPraktika№1.vcxproj -> C:\Users\Nick\Desktop\TZ\Ready to go!\TZPraktika№1\Debug\TZPraktika№1.exe
+  TZPraktika№1.vcxproj -> C:\Users\Nick\Desktop\TZ\Ready to go!\TZPraktika№1\Debug\TZPraktika№1.pdb (Partial PDB)

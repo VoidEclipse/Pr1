@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(60): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+Source.cpp(85): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+  Создание кода
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  TZPraktika№1.vcxproj -> C:\Users\Nick\documents\visual studio 2015\Projects\TZPraktika№1\Release\TZPraktika№1.exe
+  TZPraktika№1.vcxproj -> C:\Users\Nick\documents\visual studio 2015\Projects\TZPraktika№1\Release\TZPraktika№1.pdb (Full PDB)
